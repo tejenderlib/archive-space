@@ -17,7 +17,6 @@ This project focuses on clarity, simplicity, and organization. Instead of using 
 * Structured project showcase (ongoing and completed work)
 * Blog / research section
 * Resume and professional details
-* Journal for notes and progress tracking
 * Clean, minimal, and consistent layout
 
 ## Tech Stack
