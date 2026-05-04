@@ -1,29 +1,15 @@
 # Archive Space
 
-Archive Space is a minimal personal portfolio and visual system built to document projects, research, and ongoing work in a structured way.
+Archive Space is a minimal personal portfolio and visual system built to document projects, research, and ongoing work in a clean, structured, and consistent format. The focus of this project is not just to display work, but to organize it as an evolving system where ideas, experiments, and progress are continuously refined over time.
 
-## Overview
-
-This project focuses on clarity, simplicity, and organization. Instead of using a traditional tech stack, it leverages Notion as a content management system and Super.so to publish and enhance the website experience.
-
-## Why Notion + Super.so
-
-* Notion enables fast content creation and easy organization
-* No backend or deployment complexity
-* Super.so improves layout, performance, and removes default Notion UI
+This website is built using Notion as the core content management system and Super.so as the publishing layer. Notion enables fast content creation, flexible organization, and seamless updates without the need for managing backend infrastructure, while Super.so enhances the presentation by improving layout, performance, and overall user experience, making the site feel more like a professional product rather than a standard document.
 
 ## Features
 
 * Structured project showcase (ongoing and completed work)
-* Blog / research section
-* Resume and professional details
-* Clean, minimal, and consistent layout
+* Blog / Research section for writing and analysis
+* Resume with professional details and experience
+* Journal for tracking ideas, notes, and progress
+* Contact section for direct communication
 
-## Tech Stack
-
-* Notion
-* Super.so
-
-## Goal
-
-To maintain a simple, scalable platform for showcasing work, tracking progress, and continuously improving structure and presentation.
+> This website is currently not live as it is still in development and undergoing final refinements.
