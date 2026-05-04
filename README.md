@@ -1,24 +1,65 @@
 # Archive Space
 
-Archive Space is a minimal personal portfolio and visual system built to document projects, research, and ongoing work in a clean, structured, and consistent format. The focus of this project is not just to display work, but to organize it as an evolving system where ideas, experiments, and progress are continuously refined over time.
+A minimal personal portfolio and visual system built to document projects, research, and ongoing work in a clean and structured format.
 
-This website is built using Notion as the core content management system and Super.so as the publishing layer. Notion enables fast content creation, flexible organization, and seamless updates without the need for managing backend infrastructure, while Super.so enhances the presentation by improving layout, performance, and overall user experience, making the site feel more like a professional product rather than a standard document.
+---
+
+## Overview
+
+Archive Space is designed not just to showcase work, but to organize it as an evolving system. It focuses on clarity, consistency, and continuous improvement—where ideas, experiments, and progress are refined over time.
+
+---
+
+## Why Notion + Super.so
+
+This project uses Notion as the content management system and Super.so as the publishing layer.
+
+* Notion allows fast content creation, flexible organization, and seamless updates without backend complexity
+* Super.so transforms Notion pages into a clean, responsive website with improved layout and performance
+
+Super.so is widely used because it requires no coding, is easy to manage, and is free to start. It also supports custom domains, making it ideal for beginners, freshers, and non-technical users who want a professional web presence.
+
+---
 
 ## Features
 
 * Structured project showcase (ongoing and completed work)
-* Blog / Research section for writing and analysis
-* Resume with professional details and experience
-* Journal for tracking ideas, notes, and progress
-* Contact section for direct communication
+* Blog / Research section
+* Resume with professional details
+* Journal for tracking progress
+* Contact section
 
-Goal
+---
 
-The goal of this project is to maintain a simple, scalable platform to showcase work, track progress, and continuously improve both content and structure over time while keeping the overall design minimal and intentional.
-Live
+## Structure
 
+* Home
+* Projects
+* Blog / Research
+* Resume
+* Journal
+* Contact
 
-Status  
+---
+
+## Goal
+
+To maintain a simple, scalable platform for showcasing work, tracking progress, and continuously improving both content and structure while keeping the design minimal and intentional.
+
+---
+
+## Live
+
 Coming soon
 
-> This website is currently not live as it is still in development and undergoing final refinements.
+---
+
+## Status
+
+In development — final refinements in progress.
+
+---
+
+> This website is currently not live as it is still under development.
+
+< Images are providing soon >
