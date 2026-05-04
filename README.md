@@ -12,4 +12,8 @@ This website is built using Notion as the core content management system and Sup
 * Journal for tracking ideas, notes, and progress
 * Contact section for direct communication
 
+Goal
+
+The goal of this project is to maintain a simple, scalable platform to showcase work, track progress, and continuously improve both content and structure over time while keeping the overall design minimal and intentional.
+
 > This website is currently not live as it is still in development and undergoing final refinements.
