@@ -8,7 +8,6 @@ A minimal personal portfolio and visual system built to document projects, resea
 
 Archive Space is designed not just to showcase work, but to organize it as an evolving system. It focuses on clarity, consistency, and continuous improvement—where ideas, experiments, and progress are refined over time.
 
----
 
 ## Why Notion + Super.so
 
@@ -19,7 +18,6 @@ This project uses Notion as the content management system and Super.so as the pu
 
 Super.so is widely used because it requires no coding, is easy to manage, and is free to start. It also supports custom domains, making it ideal for beginners, freshers, and non-technical users who want a professional web presence.
 
----
 
 ## Features
 
@@ -29,7 +27,6 @@ Super.so is widely used because it requires no coding, is easy to manage, and is
 * Journal for tracking progress
 * Contact section
 
----
 
 ## Structure
 
@@ -40,19 +37,16 @@ Super.so is widely used because it requires no coding, is easy to manage, and is
 * Journal
 * Contact
 
----
 
 ## Goal
 
 To maintain a simple, scalable platform for showcasing work, tracking progress, and continuously improving both content and structure while keeping the design minimal and intentional.
 
----
 
 ## Live
 
 Coming soon
 
----
 
 ## Status
 
