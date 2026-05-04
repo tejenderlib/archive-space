@@ -11,7 +11,6 @@ This project focuses on clarity, simplicity, and organization. Instead of using 
 * Notion enables fast content creation and easy organization
 * No backend or deployment complexity
 * Super.so improves layout, performance, and removes default Notion UI
-* Allows building and updating a live website without coding overhead
 
 ## Features
 
