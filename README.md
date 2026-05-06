@@ -34,7 +34,6 @@ Super.so is widely used because it requires no coding, is easy to manage, and is
 * Projects
 * Blog / Research
 * Resume
-* Journal
 * Contact
 
 
