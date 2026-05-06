@@ -54,5 +54,3 @@ In development — final refinements in progress.
 ---
 
 > This website is currently not live as it is still under development.
-
-< Images are providing soon >
