@@ -42,11 +42,6 @@ Super.so is widely used because it requires no coding, is easy to manage, and is
 To maintain a simple, scalable platform for showcasing work, tracking progress, and continuously improving both content and structure while keeping the design minimal and intentional.
 
 
-## Live
-
-Coming soon
-
-
 ## Status
 
 In development — final refinements in progress.
