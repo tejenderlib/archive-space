@@ -24,7 +24,6 @@ Super.so is widely used because it requires no coding, is easy to manage, and is
 * Structured project showcase (ongoing and completed work)
 * Blog / Research section
 * Resume with professional details
-* Journal for tracking progress
 * Contact section
 
 
