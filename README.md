@@ -48,17 +48,12 @@ The project emphasizes:
 * documentation over presentation
 * long-term organization over temporary aesthetics
 
----
-
-# Technology Stack
-
 ## Platform & Documentation
 
 * Notion
 * Super.so
 * GitHub
 * Markdown
----
 
 # Status
 
