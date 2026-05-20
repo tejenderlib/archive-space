@@ -58,25 +58,6 @@ The project emphasizes:
 * Super.so
 * GitHub
 * Markdown
-
-## Data & Cloud
-
-* SQL
-* Google Cloud Platform (GCP)
-* BigQuery
-* Cloud SQL
-
----
-
-# Current Projects
-
-| Project                         | Type                             |
-| ------------------------------- | -------------------------------- |
-| GCP SQL Learning                | Learning Repository / Case Study |
-| Global Disaster Impact Analysis | Data Analytics Project           |
-| VirusTotal CLI                  | Security Tool                    |
-| Archive Space                   | Documentation System             |
-
 ---
 
 # Status
@@ -89,4 +70,5 @@ Additional project documentation, screenshots, visual assets, and case studies w
 
 # License
 
-This repository is licensed under the MIT License.
+Released under the MIT License.
+
