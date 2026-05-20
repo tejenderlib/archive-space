@@ -1,35 +1,92 @@
-## Overview
+# Archive Space
 
-Archive Space is designed not just to showcase work, but to organize it as an evolving system. It focuses on clarity, consistency, and continuous improvement—where ideas, experiments, and progress are refined over time.
+Archive Space is a minimal portfolio and documentation system built to organize projects, research, case studies, and ongoing learning in a structured and intentional format.
 
+The project combines Notion as a content management system with Super.so as the publishing layer, creating a lightweight workflow focused on clarity, consistency, and long-term organization.
 
-## Why Notion + Super.so
-
-This project uses Notion as the content management system and Super.so as the publishing layer.
-
-* Notion allows fast content creation, flexible organization, and seamless updates without backend complexity
-* Super.so transforms Notion pages into a clean, responsive website with improved layout and performance
-
-Super.so is widely used because it requires no coding, is easy to manage, and is free to start. It also supports custom domains, making it ideal for beginners, freshers, and non-technical users who want a professional web presence.
-
-
-## Features
-
-* Structured project showcase (ongoing and completed work)
-* Blog / Research section
-* Resume with professional details
-* Contact section
-
-
-## Goal
-
-To maintain a simple, scalable platform for showcasing work, tracking progress, and continuously improving both content and structure while keeping the design minimal and intentional.
-
-
-## Status
-
-In development — final refinements in progress.
+🔗 Website: https://archive-space.super.site/
 
 ---
 
-> This website is currently not live as it is still under development.
+# Overview
+
+Archive Space is designed around the idea of maintaining an evolving digital archive rather than a traditional portfolio.
+
+The focus of this project is not only to showcase completed work, but also to document learning processes, experiments, research, and technical exploration over time.
+
+The platform currently includes:
+
+* Structured project documentation
+* Learning repositories and case studies
+* Research and technical logs
+* Resume and professional information
+* Ongoing experiments and workflows
+
+---
+
+# Features
+
+* Minimal and structured portfolio system
+* Project-focused documentation
+* Research and learning logs
+* Case-study based project pages
+* Lightweight workflow using Notion + Super.so
+* Scalable and easy-to-maintain content structure
+* GitHub-based project organization
+
+---
+
+# Philosophy
+
+Archive Space is built around simplicity, clarity, and structured documentation.
+
+Instead of creating a heavily stylized portfolio, the goal is to maintain a system where projects, ideas, research, and learning progress can continuously evolve while remaining organized and accessible.
+
+The project emphasizes:
+
+* consistency over complexity
+* documentation over presentation
+* long-term organization over temporary aesthetics
+
+---
+
+# Technology Stack
+
+## Platform & Documentation
+
+* Notion
+* Super.so
+* GitHub
+* Markdown
+
+## Data & Cloud
+
+* SQL
+* Google Cloud Platform (GCP)
+* BigQuery
+* Cloud SQL
+
+---
+
+# Current Projects
+
+| Project                         | Type                             |
+| ------------------------------- | -------------------------------- |
+| GCP SQL Learning                | Learning Repository / Case Study |
+| Global Disaster Impact Analysis | Data Analytics Project           |
+| VirusTotal CLI                  | Security Tool                    |
+| Archive Space                   | Documentation System             |
+
+---
+
+# Status
+
+Archive Space is currently under active development and continuous refinement.
+
+Additional project documentation, screenshots, visual assets, and case studies will be added progressively over time.
+
+---
+
+# License
+
+This repository is licensed under the MIT License.
