@@ -27,15 +27,6 @@ Super.so is widely used because it requires no coding, is easy to manage, and is
 * Contact section
 
 
-## Structure
-
-* Home
-* Projects
-* Blog / Research
-* Resume
-* Contact
-
-
 ## Goal
 
 To maintain a simple, scalable platform for showcasing work, tracking progress, and continuously improving both content and structure while keeping the design minimal and intentional.
