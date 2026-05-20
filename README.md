@@ -1,9 +1,3 @@
-# Archive Space
-
-A minimal personal portfolio and visual system built to document projects, research, and ongoing work in a clean and structured format.
-
----
-
 ## Overview
 
 Archive Space is designed not just to showcase work, but to organize it as an evolving system. It focuses on clarity, consistency, and continuous improvement—where ideas, experiments, and progress are refined over time.
