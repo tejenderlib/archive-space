@@ -55,7 +55,7 @@ The project emphasizes:
 * GitHub
 * Markdown
 
-# Status
+## Status
 
 Archive Space is currently under active development and continuous refinement.
 
